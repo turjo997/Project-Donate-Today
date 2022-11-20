@@ -102,7 +102,7 @@ input[type=text] {
     border-bottom: 1px solid rgb(156, 156, 156);
     color: rgb(158, 157, 157);
     margin-top: 20px;
-    margin-left: 300px;
+    margin-left: 25%;
     text-align: center;
     padding-bottom: 15px;
     font-size: 15px;
@@ -118,7 +118,7 @@ input[type=text] {
     padding: 10px;
     border-radius: 5px;
     font-size: 20px;
-    margin-left: 42%;
+    margin-left: 45%;
     font-family: 'Poppins', sans-serif;
 }
 
